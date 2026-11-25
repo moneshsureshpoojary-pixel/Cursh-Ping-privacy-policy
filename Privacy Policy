@@ -1,0 +1,96 @@
+Crush Ping Privacy Policy
+Effective date: 25 November 2026 · Last updated: 25 November 2026
+Template notice: Fill in every [bracketed] item (company name, address, email) before publishing. This is a good-faith draft based on how the app actually works. It is not legal advice, so have an Indian lawyer review it before launch.
+1. Who we are
+Crush Ping ("Crush Ping", "we", "us") is a campus social app operated by [Your legal name / company name], [full postal address], India. For this policy we are the "Data Fiduciary" under India's Digital Personal Data Protection Act, 2023 ("DPDP Act").
+Contact for privacy questions: [privacy@yourdomain.com]
+By creating an account or using Crush Ping you agree to this policy and our Terms of Service. If you do not agree, please do not use the app.
+2. Who can use Crush Ping
+Crush Ping is only for people who are 18 years or older. We do not knowingly collect data from anyone under 18. If you believe a minor has an account, write to us and we will delete it.
+3. What we collect
+Information you give us
+• Account details: email address and password. Passwords are stored only as a salted hash; we cannot read them.
+• Profile details: display name, campus or institution name, year or class, subject or stream (including anything you type in an "Other" box), short bio, interests, vibe traits, and who you are looking for.
+• Your Anonymous Crush ID: the alias shown to other people instead of your name. If you buy a custom ID, we store the ID you chose.
+• Content you create: pings, chat messages, stickers, posts, comments, photos or moments you upload, and event activity.
+• Safety actions: people you block, mute or report, and the reason you give in a report.
+• Payments: what you buy (for example a custom Crush ID, stickers, a pass or a reveal) and the payment reference. Card, UPI and bank details are handled by our payment provider, Razorpay, and are never stored on our servers.
+• WhatsApp invites: if you invite someone through our WhatsApp bot, you type their WhatsApp number (see section 6).
+Information collected automatically
+• Location (only with your permission and only while Live Radar is on). If you allow location access and switch Live Radar on, the app sends your position to our servers while the app is open. Positions are stored rounded to roughly 10 metres. We do not collect location in the background when the app is closed.
+• Compass direction. The phone's compass heading is read on your device to turn the radar arrow. It is not sent to our servers.
+• Technical data: IP address, device and app version, and request logs. We use these for security, abuse prevention and rate limiting.
+• Security data: one-time password-reset codes (stored only as a hash and deleted automatically after they expire).
+4. How we use your information
+We use your data to:
+• create and secure your account and sign you in;
+• run the features you ask for: Live Radar, anonymous pings, matching, chat, stickers, events and feed;
+• show other people only what they are meant to see (see section 5);
+• process purchases and prevent fraud and payment disputes;
+• send service messages such as password-reset emails;
+• keep the community safe: detect spam, enforce our Terms, review reports and block abusers;
+• fix bugs, measure reliability and improve the product;
+• meet legal obligations and respond to lawful requests.
+We do not sell your personal data and we do not show third-party advertising based on it.
+5. What other users can and cannot see
+• Your identity is anonymous by default. Other users see your Anonymous Crush ID, year, stream and a couple of vibe traits. Your display name is shown only after a mutual match or a reveal that you or the other person chose to make.
+• Live Radar shows relative position, not coordinates. Another user on the radar sees which direction you are from them, an approximate distance, and whether you seem to be moving closer or further away. We never send your latitude or longitude to other users.
+• Please understand the limits. Because direction and distance are shown fairly precisely, a person who moves around could work out roughly where you are. Only turn Live Radar on if you are comfortable with that, and turn it off whenever you want.
+• Pausing erases your position. When you switch Live Radar off, we delete your stored position and the movement history we kept for the radar.
+• Stale positions disappear. If we have not received a fresh position from you for about 10 minutes, you stop appearing on other people's radar.
+6. WhatsApp bot and invites
+Crush Ping uses the WhatsApp Business Platform (Meta Cloud API).
+• If you invite someone, our bot sends them a message from the Crush Ping WhatsApp number. Your name is never in the message.
+• We do not store the invited person's phone number in readable form. We keep only a keyed one-way hash (to apply daily and per-number limits and to honour opt-outs) and the last two digits.
+• We store which account sent an invite so that we can investigate abuse. This is not shown to the recipient.
+• Anyone who receives a message can reply STOP to opt out of all further invites. We keep the hash of an opted-out number so that we respect that choice.
+• If someone messages the bot, we process the message, our reply and the message ID, and we keep message IDs briefly (about 3 days) to avoid answering the same message twice.
+• WhatsApp and Meta process messages under their own terms and privacy policy.
+You must only enter the number of a person you know. Do not use invites to harass anyone.
+7. Who we share data with
+We share data only with service providers who help us run Crush Ping, and only as needed:
+• Cloud hosting and database providers (for example MongoDB Atlas and our server host) to store and serve your data.
+• Razorpay to process payments and refunds.
+• Meta (WhatsApp Business Platform) to deliver WhatsApp invites and bot replies.
+• Email delivery provider (SMTP) to send password-reset emails.
+We may also disclose data if required by law, court order or a lawful government request, to protect someone's safety, or to enforce our Terms. If we are involved in a merger or sale, data may transfer to the new owner, who must honour this policy.
+8. Where your data is stored
+Our providers may store and process data on servers inside or outside India. We take reasonable steps so that your data stays protected wherever it is processed, and we follow any cross-border restrictions that apply to us under Indian law.
+9. How long we keep data
+• Account and profile data: until you delete your account (see section 10).
+• Live location: replaced each time you update, and erased when you turn Live Radar off.
+• Radar movement history: short-lived, and erased when you turn Live Radar off.
+• Password-reset codes: deleted automatically shortly after they expire (15 minutes by default).
+• Messages, pings, posts: until you or the other person deletes them or the account is deleted. Content already shared with others may remain visible in their copy of a chat.
+• Payment and purchase records: kept as long as tax, accounting and dispute rules require (generally up to 8 years).
+• Safety records (blocks, mutes, reports) and abuse logs: kept as long as needed to protect the community and prevent repeat abuse.
+When retention ends we delete or irreversibly anonymise the data.
+10. Your rights and choices
+Under the DPDP Act you have the right to:
+• Access a summary of the personal data we hold about you;
+• Correct or update inaccurate data (most of it you can edit in the app);
+• Erase your data and close your account;
+• Withdraw consent at any time, for example by turning off location in your phone settings or switching Live Radar off. Withdrawing consent does not affect what was done before;
+• Nominate another person to exercise your rights if you die or become unable to;
+• Grieve: get your complaint heard (see section 14).
+How to use them: email [privacy@yourdomain.com] from the address on your account. We may ask you to confirm your identity first, and we aim to respond within 30 days. In the app you can already: edit your profile, turn Live Radar off, mute or block people, and report content.
+A custom Crush ID you have bought is tied to your account. If you delete the account, the ID becomes available to others again and no refund is due, unless our Terms say otherwise.
+11. Security
+We use passwords stored as hashes, signed login tokens, encrypted connections (HTTPS), rate limiting, webhook signature checks and access controls. We invalidate old sessions when you reset your password. No system is perfectly secure. If a data breach affects you, we will notify you and the Data Protection Board of India as the law requires.
+Please keep your password private and use a unique one.
+12. Permissions on your phone
+• Location: needed only for Live Radar. You can refuse or revoke it in your phone settings; the rest of the app still works.
+• Photos / camera: only if you choose to add a picture or scan a QR code.
+• Notifications: only if you allow them.
+13. Children
+Crush Ping is not for anyone under 18, and we do not knowingly collect data from minors. If we learn that we have, we will delete it.
+14. Grievance Officer and complaints
+If you have a complaint about how your data is handled or about content on Crush Ping, contact our Grievance Officer as required by the Information Technology Rules, 2021 and the DPDP Act:
+• Name: [Grievance Officer's full name]
+• Email: [grievance@yourdomain.com]
+• Address: [postal address]
+We will acknowledge complaints within 24 hours and aim to resolve them within 15 days. If you are not satisfied, you may complain to the Data Protection Board of India.
+15. Changes to this policy
+We may update this policy. If the change is significant we will tell you in the app or by email before it takes effect and, where the law requires, ask for your consent again. The "Last updated" date at the top always shows the current version.
+16. Contact
+Hearquaters of sinox at [sinoxstudio@gmail.com]
