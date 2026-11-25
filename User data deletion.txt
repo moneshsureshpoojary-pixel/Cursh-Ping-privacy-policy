@@ -1,0 +1,59 @@
+Crush Ping – User Data Deletion
+Effective date: 25 November 2026 · Last updated: 25 November 2026
+Template notice: Fill in every [bracketed] item before publishing. If you add an in-app "Delete account" button later, update section 2. Not legal advice; have an Indian lawyer review it.
+You can ask Crush Ping to delete your account and personal data at any time. This page explains how, what happens, and what we may have to keep. It supports your right to erasure under India's Digital Personal Data Protection Act, 2023, and our Privacy Policy.
+1. Before you delete
+Deleting is permanent. Once it is done we cannot restore:
+• your profile, Anonymous Crush ID (including a custom ID you paid for), pings, chats, matches, posts and stickers;
+• any unused passes, stickers, reveals or other purchases. These are not refunded when you delete your account, unless the law requires it;
+• your place in other people's chats and matches.
+If you only want a break, you can instead switch Live Radar off (this erases your stored position) or stop using the app. If someone is bothering you, use Mute, Block or Report rather than deleting.
+2. How to request deletion
+Option A: Email us (works today)
+1.  Send an email from the address you signed up with to [privacy@yourdomain.com].
+2.  Use the subject line "Delete my Crush Ping account".
+3.  In the body write your Anonymous Crush ID (shown on your profile) and confirm that you want everything deleted.
+4.  We reply to confirm it is really you. We may ask one simple question about your account. We will never ask for your password.
+5.  After you confirm, we delete your data and send you a final confirmation email.
+Option B: Through the app
+[Add this once the in-app button exists: Me tab → Settings → Delete account, then confirm.]
+Lost access to your email? Write to us from any address with your Anonymous Crush ID and as much proof of ownership as you can (for example the campus and year on your profile). We may need extra checks to protect you from someone else trying to delete your account.
+3. What we delete
+When your request is verified we delete or irreversibly anonymise:
+• your account: email, password hash, display name, bio, campus, year, stream, interests, vibe traits and preferences;
+• your stored location and radar movement history;
+• your Anonymous Crush ID, which becomes available to others again;
+• your pings, chats, posts, comments, photos and stickers inventory;
+• your blocks, mutes and your sign-in sessions;
+• any pending password-reset codes.
+Messages you sent may remain visible in the other person's chat for a short period while deletion completes, then are removed or shown as from a deleted user.
+4. What we may keep, and why
+We keep only what the law or safety requires, and only for as long as needed:
+• Payment and purchase records (what was bought, amount, payment reference): up to 8 years, for tax, accounting and dispute rules. Card and UPI details are held by Razorpay, not by us.
+• Safety and abuse records: reports made about you or by you, ban records and abuse logs, for as long as needed to protect others and stop banned users returning.
+• Legal holds: anything we must preserve because of a legal request, investigation or dispute.
+• Opt-out records: a one-way hash of a WhatsApp number that replied STOP, so that we keep honouring that choice.
+• Backups: deleted data may remain in encrypted backups for up to 35 days and is then overwritten.
+Kept records are not used for anything else and are not shown to other users.
+5. How long it takes
+• We confirm we received your request within 48 hours.
+• We complete deletion within 30 days of verifying it, usually much sooner.
+• We email you when it is done.
+6. If you only received a WhatsApp invite
+You do not need an account to protect your number.
+• Reply STOP to the Crush Ping WhatsApp message. You will get no more invites, and your number is blocked from future invites.
+• To have us erase records linked to your number, email [privacy@yourdomain.com] with the subject "Remove my WhatsApp number" and the number you received the message on. We store invited numbers only as a one-way hash plus the last two digits, so we will match yours that way and delete the invite records. We keep only the opt-out hash described above.
+• We never reveal who sent an invite.
+7. Data held by other companies
+Some data sits with providers we use. We ask them to delete it, but each also has its own rules:
+• Meta / WhatsApp: messages in WhatsApp itself are controlled by you and Meta. Delete the chat in WhatsApp and see Meta's privacy settings for your WhatsApp account.
+• Razorpay: payment records are kept by Razorpay as the payment processor under its own legal obligations.
+• Hosting and email providers: remove data on our instruction, subject to backup cycles.
+8. Other choices (no deletion needed)
+• Edit your profile in the app.
+• Switch Live Radar off to erase your position and appear to nobody.
+• Revoke location permission in your phone settings at any time.
+• Ask for a copy of your data, or correct it, by emailing the same address.
+9. Questions or complaints
+Write to [privacy@yourdomain.com]. If you are not happy with our response, contact our Grievance Officer: [Grievance Officer's name], [grievance@yourdomain.com]. You can also complain to the Data Protection Board of India.
+[Your legal name / company name] [Postal address]
